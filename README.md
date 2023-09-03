@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![image](https://github.com/smty2018/ChatGPT-Flutter-/assets/74114936/a26e320f-46b2-476f-800d-f2209df633d8)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
